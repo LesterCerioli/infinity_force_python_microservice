@@ -4,7 +4,7 @@ pydantic==2.7.1
 grpcio==1.64.0
 grpcio-tools==1.64.0
 python-dotenv==1.0.1
-protobuf==4.25.3
+protobuf==4.25.8
 
 
 pytest==8.0.0
